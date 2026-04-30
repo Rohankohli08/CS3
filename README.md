@@ -1,6 +1,6 @@
-# CS3 – Wildfire Prediction Case Study
+# CS3 - Wildfire Prediction Case Study
 
-This contains the material for the DS 4002 Wildfire Prediction Case Study
+This contains the material for the DS 4002 Wildfire Prediction Case Study (CS3)
 
 ## Section 1: Case Study Overview
 
