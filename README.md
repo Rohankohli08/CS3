@@ -26,6 +26,8 @@ Folder: VARIOUS MATERIALS
 - precipitation_fire_nofire.png
 - quantitative_variable_histograms.png
 - windspeed_fire_nofire.png
+- ECMWF_Wildlife_Forecasting.pdf
+- Wildfire_Assessment_ML.pdf
 
 Folder: VARIOUS MATERIALS/data
 - CA_Weather_Fire_Dataset_1984-2025.csv
