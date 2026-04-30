@@ -4,7 +4,7 @@ This contains the material for the DS 4002 Wildfire Prediction Case Study
 
 ## Section 1: Case Study Overview
 
-You are a data scientist working for the California Governor's Office of Emergency Services trying to determine whether historical weather patterns can predict wildfire occurrence. You will use California daily weather data from 1985–2022 to train two classification models — a logistic regression and a random forest. You will evaluate which model does a better job of flagging fire days, with a focus on recall, since missing a wildfire is far more costly than a false alarm. To test your models, you will see how well they predict real wildfire occurrence in 2023.
+You are a data scientist working for the California Governor's Office of Emergency Services trying to determine whether historical weather patterns can predict wildfire occurrence. You will use California daily weather data from 1985–2022 to train two classification models: a logistic regression and a random forest. You will evaluate which model does a better job of flagging fire days, with a focus on recall, since missing a wildfire is far more costly than a false alarm. To test your models, you will see how well they predict real wildfire occurrence in 2023.
 
 ## Section 2: Map of Documentation
 
